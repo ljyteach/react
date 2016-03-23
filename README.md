@@ -6,3 +6,4 @@
 3. 为了把 JSX 转成标准的 JavaScript，我们用 <script type="text/jsx"> 标签包裹着含有 JSX 的代码，然后引入 JSXTransformer.js 库来实现在浏览器里的代码转换
 
 ### 有状态的组件
+1. 组件名首字母必须是大写
